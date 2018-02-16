@@ -9,3 +9,5 @@ Light version for Kasea's Fps booster without bloat code.
 * Easy installation without `library` dependency. 
 
 * Debug support
+
+* Adds a nice comment so you feel better using the script
